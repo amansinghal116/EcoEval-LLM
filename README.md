@@ -1,14 +1,3 @@
----
-title: EcoEval-LLM
-emoji: 🌱
-colorFrom: green
-colorTo: blue
-sdk: gradio
-sdk_version: 4.0.0
-app_file: app.py
-pinned: true
----
-
 # 🌱 EcoEval-LLM: Energy & Carbon Benchmarking for LLM Code Generation
 
 **EcoEval-LLM** is a lightweight, reproducible framework for evaluating code-generation models across:
